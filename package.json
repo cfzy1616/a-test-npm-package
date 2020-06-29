@@ -1,6 +1,6 @@
 {
-  "name": "a-test-npm-package",
-  "version": "1.0.4",
+  "name": "one-test-npm-package",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/bundle.js",
   "files": [
